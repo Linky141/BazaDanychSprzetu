@@ -1,0 +1,11 @@
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Release\Edycja.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Release\Dodawanie.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Release\Kategorie.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Release\MainWindow.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Release\Naprawy.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Release\NaprawyEdytuj.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Release\NaprawyDodaj.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Release\Wprowadz.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Release\App.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Release\Baza urządzeń_MarkupCompile.cache
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Release\Baza urządzeń_MarkupCompile.lref

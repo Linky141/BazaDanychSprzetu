@@ -1,0 +1,260 @@
+C:\Users\Tomasz Bielas\source\repos\xd\xd\bin\Debug\xd.exe.config
+C:\Users\Tomasz Bielas\source\repos\xd\xd\bin\Debug\xd.exe
+C:\Users\Tomasz Bielas\source\repos\xd\xd\bin\Debug\xd.pdb
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\xd.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\MainWindow.g.cs
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\App.g.cs
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\xd_MarkupCompile.cache
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\xd_MarkupCompile.lref
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\MainWindow.baml
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\xd.g.resources
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\xd.Properties.Resources.resources
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\xd.csproj.GenerateResource.Cache
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\xd.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\xd.exe
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\xd.pdb
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\Dodawanie.g.cs
+C:\Users\Tomasz Bielas\source\repos\xd\xd\obj\Debug\Dodawanie.baml
+J:\baza danych\xd\obj\Debug\xd.csprojResolveAssemblyReference.cache
+J:\baza danych\xd\obj\Debug\Dodawanie.g.cs
+J:\baza danych\xd\obj\Debug\MainWindow.g.cs
+J:\baza danych\xd\obj\Debug\App.g.cs
+J:\baza danych\xd\obj\Debug\Dodawanie.baml
+J:\baza danych\xd\obj\Debug\MainWindow.baml
+J:\baza danych\xd\obj\Debug\xd.Properties.Resources.resources
+J:\baza danych\xd\obj\Debug\xd.csproj.GenerateResource.cache
+J:\baza danych\xd\obj\Debug\xd.csproj.CoreCompileInputs.cache
+J:\baza danych\xd\bin\Debug\Gwarancje.exe.config
+J:\baza danych\xd\bin\Debug\Gwarancje.exe
+J:\baza danych\xd\bin\Debug\Gwarancje.pdb
+J:\baza danych\xd\obj\Debug\Gwarancje_MarkupCompile.cache
+J:\baza danych\xd\obj\Debug\Gwarancje_MarkupCompile.lref
+J:\baza danych\xd\obj\Debug\Gwarancje.g.resources
+J:\baza danych\xd\obj\Debug\Gwarancje.exe
+J:\baza danych\xd\obj\Debug\Gwarancje.pdb
+G:\baza danych_sprzet\xd\obj\Debug\xd.csprojResolveAssemblyReference.cache
+G:\baza danych_sprzet\xd\obj\Debug\Dodawanie.g.cs
+G:\baza danych_sprzet\xd\obj\Debug\MainWindow.g.cs
+G:\baza danych_sprzet\xd\obj\Debug\App.g.cs
+G:\baza danych_sprzet\xd\obj\Debug\Dodawanie.baml
+G:\baza danych_sprzet\xd\obj\Debug\MainWindow.baml
+G:\baza danych_sprzet\xd\obj\Debug\xd.Properties.Resources.resources
+G:\baza danych_sprzet\xd\obj\Debug\xd.csproj.GenerateResource.Cache
+G:\baza danych_sprzet\xd\obj\Debug\xd.csproj.CoreCompileInputs.cache
+G:\baza danych_sprzet\xd\obj\Debug\Wprowadz.g.cs
+G:\baza danych_sprzet\xd\obj\Debug\Wprowadz.baml
+J:\baza danych_sprzet\xd\obj\Debug\xd.csprojResolveAssemblyReference.cache
+J:\baza danych_sprzet\xd\obj\Debug\Dodawanie.g.cs
+J:\baza danych_sprzet\xd\obj\Debug\MainWindow.g.cs
+J:\baza danych_sprzet\xd\obj\Debug\Naprawy.g.cs
+J:\baza danych_sprzet\xd\obj\Debug\NaprawyDodaj.g.cs
+J:\baza danych_sprzet\xd\obj\Debug\Wprowadz.g.cs
+J:\baza danych_sprzet\xd\obj\Debug\App.g.cs
+J:\baza danych_sprzet\xd\obj\Debug\Dodawanie.baml
+J:\baza danych_sprzet\xd\obj\Debug\MainWindow.baml
+J:\baza danych_sprzet\xd\obj\Debug\Wprowadz.baml
+J:\baza danych_sprzet\xd\obj\Debug\Naprawy.baml
+J:\baza danych_sprzet\xd\obj\Debug\NaprawyDodaj.baml
+J:\baza danych_sprzet\xd\obj\Debug\xd.Properties.Resources.resources
+J:\baza danych_sprzet\xd\obj\Debug\xd.csproj.GenerateResource.cache
+J:\baza danych_sprzet\xd\obj\Debug\xd.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Dodawanie.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\MainWindow.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Naprawy.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\NaprawyDodaj.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Wprowadz.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\App.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Dodawanie.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\MainWindow.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Naprawy.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\NaprawyDodaj.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Wprowadz.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\xd.Properties.Resources.resources
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\xd.csproj.GenerateResource.Cache
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\xd.csproj.CoreCompileInputs.cache
+G:\baza danych_sprzet\xd\obj\Debug\Naprawy.g.cs
+G:\baza danych_sprzet\xd\obj\Debug\NaprawyDodaj.g.cs
+G:\baza danych_sprzet\xd\obj\Debug\Naprawy.baml
+G:\baza danych_sprzet\xd\obj\Debug\NaprawyDodaj.baml
+G:\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.exe.config
+G:\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.exe
+G:\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.pdb
+G:\baza danych_sprzet\xd\obj\Debug\Baza urządzeń_MarkupCompile.cache
+G:\baza danych_sprzet\xd\obj\Debug\Baza urządzeń_MarkupCompile.lref
+G:\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.g.resources
+G:\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.exe
+G:\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.pdb
+J:\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.exe.config
+J:\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.exe
+J:\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.pdb
+J:\baza danych_sprzet\xd\obj\Debug\Edycja.g.cs
+J:\baza danych_sprzet\xd\obj\Debug\Baza urządzeń_MarkupCompile.cache
+J:\baza danych_sprzet\xd\obj\Debug\Baza urządzeń_MarkupCompile.lref
+J:\baza danych_sprzet\xd\obj\Debug\Edycja.baml
+J:\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.g.resources
+J:\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.exe
+J:\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.pdb
+G:\baza danych_sprzet\xd\obj\Debug\Edycja.g.cs
+G:\baza danych_sprzet\xd\obj\Debug\NaprawyEdytuj.g.cs
+G:\baza danych_sprzet\xd\obj\Debug\Edycja.baml
+G:\baza danych_sprzet\xd\obj\Debug\NaprawyEdytuj.baml
+G:\Projekty\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.exe.config
+G:\Projekty\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.exe
+G:\Projekty\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.pdb
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\xd.csprojAssemblyReference.cache
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Edycja.g.cs
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Dodawanie.g.cs
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\MainWindow.g.cs
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Naprawy.g.cs
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\NaprawyEdytuj.g.cs
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\NaprawyDodaj.g.cs
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Wprowadz.g.cs
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\App.g.cs
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń_MarkupCompile.cache
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń_MarkupCompile.lref
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Edycja.baml
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Dodawanie.baml
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\MainWindow.baml
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Naprawy.baml
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\NaprawyEdytuj.baml
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\NaprawyDodaj.baml
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Wprowadz.baml
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.g.resources
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\xd.Properties.Resources.resources
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\xd.csproj.GenerateResource.cache
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\xd.csproj.CoreCompileInputs.cache
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.exe
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.pdb
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\xd.csprojAssemblyReference.cache
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Edycja.g.cs
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Dodawanie.g.cs
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Kategorie.g.cs
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\MainWindow.g.cs
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Naprawy.g.cs
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\NaprawyEdytuj.g.cs
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\NaprawyDodaj.g.cs
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Wprowadz.g.cs
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\App.g.cs
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Baza urządzeń_MarkupCompile.cache
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Baza urządzeń_MarkupCompile.lref
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Baza urządzeń.exe
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Baza urządzeń.pdb
+G:\Projekty\baza danych_sprzet — kopia\xd\bin\Debug\Baza urządzeń.exe.config
+G:\Projekty\baza danych_sprzet — kopia\xd\bin\Debug\Baza urządzeń.exe
+G:\Projekty\baza danych_sprzet — kopia\xd\bin\Debug\Baza urządzeń.pdb
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Edycja.baml
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Dodawanie.baml
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\MainWindow.baml
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Naprawy.baml
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\NaprawyEdytuj.baml
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\NaprawyDodaj.baml
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Wprowadz.baml
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Kategorie.baml
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\Baza urządzeń.g.resources
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\xd.Properties.Resources.resources
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\xd.csproj.GenerateResource.cache
+G:\Projekty\baza danych_sprzet — kopia\xd\obj\Debug\xd.csproj.CoreCompileInputs.cache
+H:\Projekty\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.exe.config
+H:\Projekty\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.exe
+H:\Projekty\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.pdb
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\xd.csprojAssemblyReference.cache
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Edycja.g.cs
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Dodawanie.g.cs
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Kategorie.g.cs
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\MainWindow.g.cs
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Naprawy.g.cs
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\NaprawyEdytuj.g.cs
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\NaprawyDodaj.g.cs
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Wprowadz.g.cs
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\App.g.cs
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń_MarkupCompile.cache
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń_MarkupCompile.lref
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Edycja.baml
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Dodawanie.baml
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Kategorie.baml
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\MainWindow.baml
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Naprawy.baml
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\NaprawyEdytuj.baml
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\NaprawyDodaj.baml
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Wprowadz.baml
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.g.resources
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\xd.Properties.Resources.resources
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\xd.csproj.GenerateResource.cache
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\xd.csproj.CoreCompileInputs.cache
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.exe
+H:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.pdb
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Kategorie.g.cs
+G:\Projekty\baza danych_sprzet\xd\obj\Debug\Kategorie.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\xd.csprojAssemblyReference.cache
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Edycja.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Kategorie.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\NaprawyEdytuj.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Baza urządzeń_MarkupCompile.cache
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Baza urządzeń_MarkupCompile.lref
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.exe
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.pdb
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.exe.config
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.exe
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.pdb
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Edycja.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Kategorie.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\NaprawyEdytuj.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.g.resources
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\xd.csprojAssemblyReference.cache
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Edycja.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Dodawanie.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Kategorie.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\MainWindow.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Naprawy.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\NaprawyEdytuj.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\NaprawyDodaj.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Wprowadz.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\App.g.cs
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Baza urządzeń_MarkupCompile.cache
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Baza urządzeń_MarkupCompile.lref
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Baza urządzeń.exe
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Baza urządzeń.pdb
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\bin\Debug\Baza urządzeń.exe.config
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\bin\Debug\Baza urządzeń.exe
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\bin\Debug\Baza urządzeń.pdb
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Edycja.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Dodawanie.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Kategorie.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\MainWindow.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Naprawy.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\NaprawyEdytuj.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\NaprawyDodaj.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Wprowadz.baml
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\Baza urządzeń.g.resources
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\xd.Properties.Resources.resources
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\xd.csproj.GenerateResource.cache
+C:\Users\Tomasz Bielas\Desktop\baza danych_sprzet - Kopia\xd\obj\Debug\xd.csproj.CoreCompileInputs.cache
+D:\Projekty\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.exe.config
+D:\Projekty\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.exe
+D:\Projekty\baza danych_sprzet\xd\bin\Debug\Baza urządzeń.pdb
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\xd.csprojAssemblyReference.cache
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Edycja.g.cs
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Dodawanie.g.cs
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Kategorie.g.cs
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\MainWindow.g.cs
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Naprawy.g.cs
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\NaprawyEdytuj.g.cs
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\NaprawyDodaj.g.cs
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Wprowadz.g.cs
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\App.g.cs
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń_MarkupCompile.cache
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń_MarkupCompile.lref
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Edycja.baml
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Dodawanie.baml
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Kategorie.baml
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\MainWindow.baml
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Naprawy.baml
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\NaprawyEdytuj.baml
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\NaprawyDodaj.baml
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Wprowadz.baml
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.g.resources
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\xd.Properties.Resources.resources
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\xd.csproj.GenerateResource.cache
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\xd.csproj.CoreCompileInputs.cache
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.exe
+D:\Projekty\baza danych_sprzet\xd\obj\Debug\Baza urządzeń.pdb
